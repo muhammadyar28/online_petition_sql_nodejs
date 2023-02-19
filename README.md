@@ -2,7 +2,7 @@
 
 The link to the website is below: 
 
-earthquake-relief.netlify.app
+https://earthquake-relief.netlify.app/
 
 In this project I utilized SQL, Node.js, HTML, CSS to create an online earthquake relief petition which lets users enter their email address to raise awareness for more donations and relief for people in the earthquake hit areas of Southern Türkiye and Northern Syria. 
 
